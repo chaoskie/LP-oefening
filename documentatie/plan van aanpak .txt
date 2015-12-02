@@ -1,0 +1,13 @@
+Vandaag heb ik van 12:45 tot 15:50 gewerkt aan mijn applicatie documentatie.
+In deze tijd heb ik het analyse document af en het ATP
+ook is de architectuur bekend in het ontwerp document. 
+
+Ik kom dan qua werk tijd ongeveer 3,5 uur tekort. 
+in deze tijd zou ik normaal het ontwerp document af kunnen hebben, daar ben ik van overtuigd
+Daarnaast denk ik dat ik het database script al gemaakt had kunnen hebben 
+verder zou ik thuis doorgewerkt hebben zodat:
+- de database klaar zou zijn
+- het klassendiagram geimplementeerd was
+- unittesten overzicht aanwezig (plan van testen)
+
+Als het mij lukt dit vandaag allemaal nog af te hebben ben ik dol gelukkig.
