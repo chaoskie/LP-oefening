@@ -1,0 +1,12 @@
+Ik vond het gesprek vrij goed gaan. 
+Ik had niet het idee dat er extreem lastige vragen werden gesteld.
+De vraag op welke methode/strategie ik zou toepassen vond ik wel lastig. 
+Hier had ik nog niet zo zeer over nagedacht. De meest 'simpele' manier die ik voor de hand vond liggen,
+was singleton met een administratie class die vervolgens alles bij zou houden. 
+Dit had ik aangevuld met een 3 laagse architectuur. (GUI, core, database)
+Wel vond ik het jammer dat ik niet zo heel veel al kon laten zien. 
+Ik had verder een beter gevoel over het gesprek als bij de echte live preformance. 
+Toen kreeg ik ook wat meer reacties in een bekritiserende toon. Dat had ik nu niet.
+
+Verder ben ik erg benieuwd op welke dingen ik zou moeten letten volgende keer. 
+
